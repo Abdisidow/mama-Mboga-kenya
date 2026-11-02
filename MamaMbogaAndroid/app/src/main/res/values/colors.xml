@@ -1,9 +1,12 @@
 <resources>
-    <color name="brand_green">#2F6B45</color>
-    <color name="brand_green_dark">#244F34</color>
-    <color name="ink">#24392B</color>
-    <color name="muted">#718071</color>
-    <color name="cream">#F6F4EC</color>
-    <color name="soft_green">#EAF1E7</color>
+    <color name="forest_green">#164E3B</color>
+    <color name="forest_green_deep">#103A2C</color>
+    <color name="fresh_lime">#B7D96C</color>
+    <color name="warm_cream">#FFF8EC</color>
+    <color name="papaya_orange">#F59E50</color>
+    <color name="deep_charcoal">#26332D</color>
+    <color name="muted_green">#66756D</color>
+    <color name="line_soft">#E7E5D9</color>
     <color name="white">#FFFFFF</color>
+    <color name="unavailable">#A43E32</color>
 </resources>
