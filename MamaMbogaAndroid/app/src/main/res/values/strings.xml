@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Mama Mboga</string>
+    <string name="topline">KARIBU · FRESH DAILY</string>
+    <string name="hero_title">GOOD FOOD,\nGOOD MOOD.</string>
+    <string name="hero_subtitle">Fresh from the market to your table.</string>
+    <string name="hero_badge">TODAY’S MARKET PICKS · FROM KSh 30</string>
+    <string name="shop_categories">Shop by category</string>
+    <string name="popular_today">Popular today</string>
+    <string name="market_fresh">MARKET FRESH</string>
+    <string name="social_header">A little closer to home</string>
+    <string name="social_body">Follow our market finds, daily deals and kitchen tips.</string>
+    <string name="footer_tagline">Fresh choices. Fair prices. From your local mama.</string>
+    <string name="home_nav">⌂  Home</string>
+    <string name="basket_nav">🛍  Basket</string>
+    <string name="chat_nav">☏  Chat</string>
+
+    <string name="category_all">All</string>
+    <string name="category_vegetables">Vegetables</string>
+    <string name="category_fruits">Fruits</string>
+    <string name="category_staples">Staples</string>
+    <string name="category_description">%1$s category filter</string>
+    <string name="category_selected_description">Selected: %1$s category</string>
+
+    <string name="product_illustration_description">Illustration of %1$s</string>
+    <string name="add_product_description">Add %1$s to basket</string>
+    <string name="add_to_basket">+ Add</string>
+    <string name="added_quantity">+  %1$d</string>
+    <string name="cart_count">🛍  %1$d</string>
+    <string name="cart_count_zero">🛍  0</string>
+    <string name="cart_description">Open basket, %1$d items</string>
+    <string name="cart_description_zero">Open empty basket</string>
+    <string name="basket_count">🛍  Basket (%1$d)</string>
+    <string name="price_format">KSh %1$d</string>
+    <string name="basket_title">Your basket</string>
+    <string name="empty_basket_title">Your basket is waiting</string>
+    <string name="empty_basket_message">Add a few fresh market picks to get started.</string>
+    <string name="keep_shopping">Keep shopping</string>
+    <string name="basket_total">Total · %1$s</string>
+    <string name="delivery_prompt">How would you like it?</string>
+    <string name="delivery_option">Deliver to me</string>
+    <string name="pickup_option">I’ll pick it up</string>
+    <string name="payment_note">Payment: arrange M-PESA or cash with Mama Mboga on WhatsApp.</string>
+    <string name="order_on_whatsapp">Order on WhatsApp</string>
+    <string name="delivery_label">Delivery</string>
+    <string name="pickup_label">Pickup</string>
+    <string name="order_line">• %1$d × %2$s — %3$s</string>
+    <string name="order_message">Hi Mama Mboga! I’d like to place an order (%1$s):\n%2$s\nTotal: %3$s\nPlease let me know the next step for payment.</string>
+    <string name="whatsapp_greeting">Hi Mama Mboga! I’d like to ask about today’s fresh produce.</string>
+    <string name="decrease_quantity_description">Remove one %1$s</string>
+    <string name="increase_quantity_description">Add one %1$s</string>
+    <string name="no_link_handler">No app is available to open this link.</string>
+
+    <string name="social_instagram">Instagram</string>
+    <string name="social_facebook">Facebook</string>
+    <string name="social_x">X</string>
+    <string name="social_whatsapp">WhatsApp</string>
+    <string name="open_social_description">Open %1$s</string>
+
+    <!-- Replace these example destinations with Mama Mboga’s verified public profiles. -->
+    <string name="instagram_url">https://instagram.com/mamamboga</string>
+    <string name="facebook_url">https://facebook.com/mamamboga</string>
+    <string name="x_url">https://x.com/mamamboga</string>
+    <!-- Kenyan international format without the leading plus sign. -->
+    <string name="whatsapp_phone">254700000000</string>
+</resources>

@@ -1,6 +1,6 @@
 # Mama Mboga — Android prototype
 
-A Kotlin and XML starter app for a neighborhood fresh-produce shop. It includes a small sample catalogue, category filters, a basket, delivery or pickup selection, and social links. Placing an order prepares a message in WhatsApp so the seller and customer can confirm availability, delivery details, and payment.
+A Kotlin and XML starter app for a neighborhood fresh-produce shop. It includes a sample catalogue, category filters, a quantity-adjustable basket, pickup or delivery selection, and social links. Placing an order opens WhatsApp with a draft message so the seller and customer can confirm availability, delivery details, and payment.
 
 ## Business model
 
@@ -13,7 +13,7 @@ A Kotlin and XML starter app for a neighborhood fresh-produce shop. It includes 
 
 ## Prototype scope
 
-The app uses sample products and prices in Kenyan shillings. The social profile URLs and WhatsApp phone number are examples and must be replaced with Mama Mboga's real public account links and Kenyan phone number in `MainActivity.kt`. Prices, stock, delivery zones/fees, and opening hours are also sample values. The app does not connect to a backend, live inventory, or M-PESA API. Orders are handed off to WhatsApp for confirmation.
+The app uses sample products and prices in Kenyan shillings. The social profile URLs and WhatsApp number in `app/src/main/res/values/strings.xml` are examples; replace them with Mama Mboga's real public account links and Kenyan phone number. The product list and sample prices are defined in `MainActivity.kt`. Stock, delivery zones/fees, and opening hours are sample assumptions. The app does not connect to a backend, live inventory, or M-PESA API. Orders are handed off to WhatsApp for confirmation.
 
 ## Open and run
 

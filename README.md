@@ -1,2 +1,5 @@
-# mama-Mboga
-A Kotlin and XML starter app for a neighborhood fresh-produce shop. It includes a small sample catalogue, category filters, a basket, delivery or pickup selection, and social links. Placing an order prepares a message in WhatsApp so the seller and customer can confirm availability, delivery details, and payment.
+# Mama Mboga
+
+Kotlin/XML Android prototype for a local fresh-produce business.
+
+Open [`MamaMbogaAndroid/`](MamaMbogaAndroid/) in Android Studio. The project README covers the sample business model, setup, and the prototype’s current limits.
