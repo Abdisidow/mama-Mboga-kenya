@@ -1,5 +1,7 @@
 # Gradle and Android build output
 .gradle/
+.gradle-build/
+.kotlin/
 **/build/
 local.properties
 *.iml
@@ -10,3 +12,8 @@ local.properties
 captures/
 .externalNativeBuild/
 .cxx/
+.sdk-local/
+.android-user/
+jdk-17*/
+gradle-8.9/
+*.zip

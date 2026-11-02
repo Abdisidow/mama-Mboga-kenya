@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/socialInstagram" android:title="@string/social_instagram" app:showAsAction="never" />
+    <item android:id="@+id/socialFacebook" android:title="@string/social_facebook" app:showAsAction="never" />
+    <item android:id="@+id/socialX" android:title="@string/social_x" app:showAsAction="never" />
+    <item android:id="@+id/socialWhatsApp" android:title="@string/social_whatsapp" app:showAsAction="never" />
+</menu>

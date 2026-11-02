@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Mama Mboga</string>
+    <string name="brand_tagline">FRESH FROM OUR MARKET</string>
+    <string name="shop_title">Good food, good mood.</string>
+    <string name="shop_subtitle">Your neighbourhood market, in your pocket.</string>
+    <string name="search_hint">Search vegetables, fruits, staples…</string>
+    <string name="categories_title">Shop by category</string>
+    <string name="category_all">Everything</string>
+    <string name="category_vegetables">Vegetables</string>
+    <string name="category_fruits">Fruits</string>
+    <string name="category_staples">Pantry</string>
+    <string name="category_other">Other</string>
+    <string name="popular_today">Popular today</string>
+    <string name="products_title">Products</string>
+    <string name="available">Available</string>
+    <string name="unavailable">Sold out</string>
+    <string name="price_review">Review price</string>
+    <string name="price_review_due">Price check needed</string>
+    <string name="add_to_basket">Add to basket</string>
+    <string name="added_to_basket">Added</string>
+    <string name="empty_catalog_title">No matching produce</string>
+    <string name="empty_catalog_message">Try another search or category.</string>
+    <string name="loading_catalog">Getting today’s market list…</string>
+    <string name="retry">Try again</string>
+    <string name="details_title">Product details</string>
+    <string name="close">Close</string>
+    <string name="view_basket">View basket</string>
+    <string name="market_fresh">MARKET FRESH</string>
+    <string name="product_photo">Product photo</string>
+
+    <string name="nav_shop">Shop</string>
+    <string name="nav_basket">Basket</string>
+    <string name="nav_vendor">Vendor</string>
+    <string name="basket_title">Your basket</string>
+    <string name="basket_empty_title">Your basket is empty</string>
+    <string name="basket_empty_message">Add fresh market picks to get started.</string>
+    <string name="basket_items_count">%1$d items</string>
+    <string name="basket_subtotal">Subtotal</string>
+    <string name="basket_total">Total</string>
+    <string name="delivery_method">How would you like it?</string>
+    <string name="delivery_option">Local delivery</string>
+    <string name="pickup_option">I’ll pick it up</string>
+    <string name="customer_name">Your name</string>
+    <string name="customer_phone">Phone number</string>
+    <string name="delivery_location">Estate, street, or landmark</string>
+    <string name="delivery_location_helper">Add a location so we can confirm delivery.</string>
+    <string name="payment_note">Pay by M-PESA or cash after we confirm your order.</string>
+    <string name="place_order">Place order</string>
+    <string name="order_on_whatsapp">Order via WhatsApp</string>
+    <string name="empty_checkout_error">Add at least one available item before checkout.</string>
+    <string name="invalid_customer_name">Enter your name.</string>
+    <string name="invalid_customer_phone">Enter a valid phone number.</string>
+    <string name="invalid_delivery_location">Enter a delivery location or choose pickup.</string>
+    <string name="order_saved">Order saved. Mama Mboga will confirm it shortly.</string>
+    <string name="order_sent">Your order is ready to send in WhatsApp.</string>
+    <string name="order_failed">We couldn’t save your order. Please try again.</string>
+    <string name="remove_item">Remove item</string>
+    <string name="decrease_quantity">Decrease quantity</string>
+    <string name="increase_quantity">Increase quantity</string>
+    <string name="add_one_to_basket">Add one %1$s</string>
+    <string name="remove_one_from_basket">Remove one %1$s</string>
+    <string name="quantity_for_product">Quantity for %1$s</string>
+    <string name="price_changed_title">Prices updated</string>
+    <string name="price_changed_message">%1$s. Your basket total has been recalculated.</string>
+
+    <string name="vendor_dashboard">Market dashboard</string>
+    <string name="vendor_greeting">Good morning, Mama Mboga</string>
+    <string name="stat_products">Products</string>
+    <string name="stat_available">Available</string>
+    <string name="stat_price_review">Price checks</string>
+    <string name="stat_pending_orders">Orders to confirm</string>
+    <string name="daily_sales">Today’s confirmed sales</string>
+    <string name="daily_sales_note">Confirmed orders only</string>
+    <string name="pending_orders">Awaiting confirmation</string>
+    <string name="no_pending_orders">No orders waiting right now.</string>
+    <string name="confirm_order">Confirm order</string>
+    <string name="order_customer">%1$s · %2$s</string>
+    <string name="order_summary">%1$d items · %2$s · %3$s</string>
+    <string name="manage_products">Manage products &amp; prices</string>
+    <string name="add_product">Add product</string>
+    <string name="edit_product">Edit product</string>
+    <string name="edit_price">Edit price</string>
+    <string name="mark_price_checked">Mark price checked</string>
+    <string name="save_changes">Save changes</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_image">Remove photo</string>
+    <string name="choose_photo">Choose product photo</string>
+    <string name="product_name_label">Product name</string>
+    <string name="product_description_label">Short description</string>
+    <string name="product_category_label">Category</string>
+    <string name="product_unit_label">Measurement unit (for example, 1 kg)</string>
+    <string name="product_price_label">Price (KSh)</string>
+    <string name="product_available_label">Available to customers</string>
+    <string name="needs_price_update_label">Flag for a price check</string>
+    <string name="photo_selected">Photo selected</string>
+    <string name="photo_optional">Add a clear photo to help customers choose.</string>
+    <string name="error_name_required">Enter a product name.</string>
+    <string name="error_name_too_long">Keep the product name under 60 characters.</string>
+    <string name="error_description_required">Add a short description.</string>
+    <string name="error_category_required">Choose a category.</string>
+    <string name="error_unit_required">Enter a measurement unit.</string>
+    <string name="error_price_required">Enter a valid whole-number price.</string>
+    <string name="error_price_negative">Price cannot be negative.</string>
+    <string name="error_price_too_high">Price is above the allowed limit.</string>
+    <string name="product_saved">Product saved.</string>
+    <string name="availability_updated">Availability updated.</string>
+    <string name="price_reviewed">Price check cleared.</string>
+    <string name="search_products">Search products…</string>
+    <string name="no_products_yet">No products yet. Add the first one to start selling.</string>
+    <string name="open_whatsapp">Chat with Mama Mboga</string>
+    <string name="social_links">Follow the market</string>
+    <string name="social_instagram">Instagram</string>
+    <string name="social_facebook">Facebook</string>
+    <string name="social_x">X</string>
+    <string name="social_whatsapp">WhatsApp</string>
+    <string name="footer_tagline">Fresh choices. Fair prices. From your local mama.</string>
+    <string name="price_format">KSh %1$d</string>
+    <string name="price_with_unit">KSh %1$d / %2$s</string>
+    <string name="save">Save</string>
+    <string name="required_field">This field is required.</string>
+    <string name="invalid_price">Enter a valid non-negative whole-number price.</string>
+    <string name="choose_category">Choose a category from the list.</string>
+    <string name="unavailable_basket_notice">One or more items are sold out. Remove them before placing your order.</string>
+    <string name="line_total">%1$s × %2$d = %3$s</string>
+    <string name="whatsapp_open_failed">Could not open WhatsApp or a web browser.</string>
+    <string name="whatsapp_hello">Hi Mama Mboga! I’d like to ask about today’s fresh produce.</string>
+
+    <!-- Replace these examples with Mama Mboga’s real public social links and phone. -->
+    <string name="social_instagram_url">https://instagram.com/mamamboga</string>
+    <string name="social_facebook_url">https://facebook.com/mamamboga</string>
+    <string name="social_x_url">https://x.com/mamamboga</string>
+    <string name="whatsapp_phone">254700000000</string>
+
+    <string-array name="product_categories">
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Staples</item>
+        <item>Other</item>
+    </string-array>
+</resources>

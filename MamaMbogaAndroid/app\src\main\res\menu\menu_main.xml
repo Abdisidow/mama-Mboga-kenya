@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_shop" android:icon="@drawable/ic_store" android:title="@string/nav_shop" />
+    <item android:id="@+id/nav_basket" android:icon="@drawable/ic_basket" android:title="@string/nav_basket" />
+    <item android:id="@+id/nav_vendor" android:icon="@drawable/ic_dashboard" android:title="@string/nav_vendor" />
+</menu>
